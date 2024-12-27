@@ -1,4 +1,4 @@
-#include "my_rsa.h"
+#include "rsa.h"
 #include <iostream>
 
 // Проверка, является ли число простым
